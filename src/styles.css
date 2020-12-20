@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+  margin: 1.5rem;
+  padding: 1.5rem;
+  background-color: gray;
+}
+.output-box {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+.genre-button {
+  min-width: 150px;
+  border-radius: 1rem;
+  text-transform: capitalize;
+  padding: 0.75rem;
+  border-radius: 15px;
+  background: black;
+  color: white;
+  margin: 0px auto;
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.each-book {
+  padding: 0.5rem 3rem;
+  margin: 0.75rem 1rem;
+  border: 1px solid black;
+  /* border-radius: 5rem; */
+  text-transform: capitalize;
+  margin: 0px auto;
+  margin-top: 20px;
+  background-color: black;
+}
+.book-image {
+  height: 40vh;
+}
+.book-name {
+  color: white;
+}
