@@ -84,13 +84,7 @@ export default function App() {
       {/* genre buttons */}
       <div></div>
 
-      {/* Rendering books by using map */}
-      {/* <div>
-        <img src={booksDataBase["scienceFiction"][0]["image"]} />
-        <img src={booksDataBase["scienceFiction"][1]["image"]} />
-        <img src={booksDataBase["scienceFiction"][2]["image"]} />
-        <img src={booksDataBase["scienceFiction"][3]["image"]} />
-      </div> */}
+     
 
       <div>
         <div className="output-box">
